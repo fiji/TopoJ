@@ -1,13 +1,15 @@
-import ij.*;
-import ij.measure.Calibration;
-import ij.gui.NewImage;
+import Jama.Matrix;
+import ij.IJ;
+import ij.ImagePlus;
+import ij.ImageStack;
 import ij.gui.GenericDialog;
+import ij.gui.NewImage;
+import ij.measure.Calibration;
 import ij.plugin.filter.PlugInFilter;
-import ij.process.*;
+import ij.process.FloatProcessor;
+import ij.process.ImageProcessor;
 
 import java.util.Arrays;
-
-import Jama.Matrix;
 
 /**
  * Created by IntelliJ IDEA.

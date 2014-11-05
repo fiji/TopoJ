@@ -1,13 +1,12 @@
-import ij.plugin.filter.PlugInFilter;
-import ij.ImagePlus;
-import ij.IJ;
-import ij.process.ImageProcessor;
-import ij.process.FloatProcessor;
-import ij.process.ByteProcessor;
-
-import java.awt.*;
-
 import Jama.Matrix;
+import ij.IJ;
+import ij.ImagePlus;
+import ij.plugin.filter.PlugInFilter;
+import ij.process.ByteProcessor;
+import ij.process.FloatProcessor;
+import ij.process.ImageProcessor;
+
+import java.awt.Rectangle;
 
 /**
  * Created by IntelliJ IDEA.
