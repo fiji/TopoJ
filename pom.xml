@@ -78,8 +78,8 @@
 		<url>https://github.com/fiji/TopoJ/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/TopoJ/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/fiji/TopoJ</url>
 	</ciManagement>
 
 	<properties>
