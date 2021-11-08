@@ -65,7 +65,7 @@
 	</mailingLists>
 
 	<scm>
-		<connection>scm:git:git://github.com/fiji/TopoJ</connection>
+		<connection>scm:git:https://github.com/fiji/TopoJ</connection>
 		<developerConnection>scm:git:git@github.com:fiji/TopoJ</developerConnection>
 		<tag>HEAD</tag>
 		<url>https://github.com/fiji/TopoJ</url>
